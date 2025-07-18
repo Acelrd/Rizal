@@ -1,62 +1,6 @@
 # Rizal
 
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Jose Rizal - National Hero</title>
-  <style>
-    body {
-      font-family: Georgia, serif;
-      background-color: #f9f9f9;
-      color: #333;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-    }
-    h1, h2 {
-      text-align: center;
-      color: darkgreen;
-    }
-    img {
-      display: block;
-      margin: 10px auto;
-      max-width: 100%;
-      height: auto;
-      border: 1px solid #ccc;
-    }
-    nav {
-      text-align: center;
-      margin-bottom: 20px;
-    }
-    nav a {
-      margin: 0 10px;
-      text-decoration: none;
-      color: darkred;
-    }
-    section {
-      margin-bottom: 40px;
-    }
-    footer {
-      text-align: center;
-      font-size: 0.9em;
-      color: gray;
-    }
-    #search-container {
-      text-align: center;
-      margin-bottom: 20px;
-    }
-    #search-input {
-      padding: 8px;
-      width: 80%;
-      font-size: 16px;
-    }
-    .highlight {
-      background-color: yellow;
-    }
-  </style>
-</head>
-<body>
 
   <h1>Dr. Jose Rizal</h1>
   <img src="rizal_portrait.jpg" alt="Jose Rizal Portrait">
